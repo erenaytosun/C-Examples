@@ -1,6 +1,6 @@
 
 
-/// 2 farkli firmada calisan 3 farklı elemanin maaslarini sattiklari ürüne göre hesaplayan program
+/// 2 farkli firmada calisan 3 farkli elemanin maaslarini sattiklari Ã¼rÃ¼ne gÃ¶re hesaplayan program
 
 
 
